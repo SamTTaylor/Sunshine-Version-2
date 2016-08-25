@@ -4,5 +4,14 @@
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    
+    <string name="main_forecast_placeholder_1">Today - Sunny - 88 / 63</string>
+    <string name="main_forecast_placeholder_2">Tomorrow - Foggy - 88 / 63</string>
+    <string name="main_forecast_placeholder_3">Weds - Cloudy - 88 / 63</string>
+    <string name="main_forecast_placeholder_4">Thurs - Asteroids - 88 / 63</string>
+    <string name="main_forecast_placeholder_5">Fri - Heavy Rain - 88 / 63</string>
+    <string name="main_forecast_placeholder_6">Sat - Null - 88 / 63</string>
+    <string name="main_forecast_placeholder_7">Sun - Sunny - 88 / 63</string>
+
 
 </resources>
